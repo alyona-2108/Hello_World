@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj": {}
+    "c:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj": {
+    "c:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj",
         "projectName": "Example004_Div",
-        "projectPath": "C:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\Example004_Div.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\GeekBrains\\HelloConsole\\Examples\\Example004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
